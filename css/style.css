@@ -476,6 +476,7 @@ video{
         display: inline-block;
         left: -18vw;
         top: 10vh;
+        z-index: 999;
 
     }
 
@@ -489,7 +490,7 @@ video{
 
     #burger{
         margin-top: 2.5vh;
-        margin-left: 44vw;
+        margin-left: 25vw;
         opacity: 1;
         background-color: rgba(0, 0, 0, 0.5);
         border: 2px solid rgba(250, 250, 250, 0.2);
